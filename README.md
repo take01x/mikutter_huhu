@@ -5,7 +5,7 @@ mikutter_huhu
 Install
 -------
     $ cd ~/.mikutter/plugin
-    $ git clone git@github.com:take01x/mikutter_huhu.git
+    $ git clone https://github.com/take01x/mikutter_huhu.git
 
 How to use
 ----------
